@@ -1,0 +1,5 @@
+result:
+1
+1.50000000
+
+It can be easily verified by running the code.
