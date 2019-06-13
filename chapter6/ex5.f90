@@ -12,5 +12,7 @@ program main
       string2(i:i)=string(counter:counter)
     end if
   end do
-  write(*,*) string2(1:i)! still in doubt here
+  write(*,*) string2(1:i)
+  ! cannot use string2(1:len_trim(string2)) here because
+  ! string2 is not initialized as 50 blank spaces
 end program
