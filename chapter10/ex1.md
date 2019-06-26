@@ -1,0 +1,10 @@
+a: 4bytes  
+b: 4bytes 
+c: 8bytes 
+str: 10bytes 
+pa: 4bytes 
+pb: 4bytes 
+pc: 4bytes 
+pstr: 4bytes 
+s: 12bytes 
+ps: 4bytes 
